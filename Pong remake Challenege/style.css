@@ -1,0 +1,11 @@
+body {
+	padding: 0px;
+	background-color: black;
+}
+
+canvas {
+	margin-top: 15vh;
+	margin-left: 25vw;
+	background: #AFAFAF;
+	outline: 1px solid white;
+}
